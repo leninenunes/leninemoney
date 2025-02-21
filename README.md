@@ -43,6 +43,7 @@ Este projeto é um CRUD (Create, Read, Update, Delete) básico para controle de 
 📜 index-test.php
 📜 index.php
 📖 README.md
+```plaintext
 
 ## 🔧 Como Instalar e Rodar o Projeto
 
