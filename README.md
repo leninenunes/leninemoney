@@ -20,28 +20,7 @@ Este projeto é um CRUD (Create, Read, Update, Delete) básico para controle de 
 
 ## 📂 Estrutura do Projeto
 
-📂 assets
-📂 css
-📂 images
-📂 protected
- ├── 📁 commands
- ├── 📁 components
- ├── 📁 config
- ├── 📁 controllers
- ├── 📁 data
- ├── 📁 extensions
- ├── 📁 messages
- ├── 📁 migrations
- ├── 📁 models
- ├── 📁 runtime
- ├── 📁 tests
- ├── 📁 vendor
- ├── 📁 views
-📂 themes
-⚙️ .htaccess
-📜 index-test.php
-📜 index.php
-📖 README.md
+📂 assets 📂 css 📂 images 📂 protected ├── 📁 commands ├── 📁 components ├── 📁 config ├── 📁 controllers ├── 📁 data ├── 📁 extensions ├── 📁 messages ├── 📁 migrations ├── 📁 models ├── 📁 runtime ├── 📁 tests ├── 📁 vendor ├── 📁 views 📂 themes ⚙️ .htaccess 📜 index-test.php 📜 index.php 📖 README.md
 
 
 ## 🔧 Como Instalar e Rodar o Projeto
