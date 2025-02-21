@@ -20,7 +20,7 @@ Este projeto é um CRUD (Create, Read, Update, Delete) básico para controle de 
 
 ## 📂 Estrutura do Projeto
 
-```plaintext
+<pre>
 📂 assets
 📂 css
 📂 images
@@ -43,7 +43,7 @@ Este projeto é um CRUD (Create, Read, Update, Delete) básico para controle de 
 📜 index-test.php
 📜 index.php
 📖 README.md
-```plaintext
+</pre>
 
 ## 🔧 Como Instalar e Rodar o Projeto
 
